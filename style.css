@@ -1,0 +1,28 @@
+.footer {
+    background-color: #fff;
+    border-top: 1px solid #f1f3f3;
+    margin-top: 160px;
+    min-height: 180px;
+    flex-direction: column;
+    padding: 40px 0 48px;
+  }
+
+  .footer .nav-group {
+    margin: 16px 0;
+}
+.nav .nav-group {
+    display: flex;
+    align-items: center;
+}
+
+.footer .copyright {
+    text-transform: none;
+    font-weight: 400;
+}
+.footer .footer-item-small {
+    display: none;
+}
+
+.footer .footer-icons {
+    height: 32px;
+}
